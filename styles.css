@@ -1,0 +1,14 @@
+
+.box {
+    height:150px;
+    width:150px;
+    background-color: black;
+    border:5px solid black;
+    display: inline-block;
+}
+.x {
+  height: 50px;
+  width: 50px;
+  background-color: inherit;
+  float: right;
+}
